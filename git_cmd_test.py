@@ -1,4 +1,5 @@
 import math
 x=10
 y=23
-print(x+y)
+z=45
+print(x+y+z)
